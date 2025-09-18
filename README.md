@@ -8,9 +8,9 @@
 
 ## 📝 Overview
 
-The **CPP_Programs** repository contains a variety of C++ programs for learning and practicing C++ programming.  
-It includes programs on **Abstract classes, Access control, Type Casting, Constants, Constructors, and more**.  
-Each program is **self-contained**, ready to compile or run independently, and designed for **students, beginners, and programming practice**.
+- The **CPP_Programs** repository contains a variety of C++ programs for learning and practicing C++ programming.  
+- It includes programs on **Abstract classes, Access control, Type Casting, Constants, Constructors, and more**.  
+- Each program is **self-contained**, ready to compile or run independently, and designed for **students, beginners, and programming practice**.
 
 ---
 
